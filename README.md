@@ -1,4 +1,4 @@
-<h1 align="center">Kook-Valorant-Web</h1>
+<h1 align="center">Valorant-Shop-Web</h1>
 
 <h4 align="center">这是一个「Valorant」商店查询网页</h4>
 
